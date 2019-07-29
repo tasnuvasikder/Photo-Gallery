@@ -1,0 +1,52 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-family: "Courier New";
+   background-color: black;
+   border-style: dotted;
+  font-size: 50px;
+}
+
+body {
+  background: url("https://www.bynubian.com/wp-content/uploads/2013/04/clouds.jpg");
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  border: 5px solid white;
+}
+
+img {
+  width: 23%;
+  object-fit: scale-down;
+}
+
+.quote {
+  color: navy;
+  text-align: center;
+  font-family: "Snell Roundhand"; background-color: white;
+  border-style: dotted solid double;
+  font-size: 30px;
+  margin: 10px;
+  font-weight: bold;
+}
+section {
+  display: flex;
+  flex-direction: row;
+  justify-content:
+}
+.firstrowtext { color: white;
+  font-size: 25px;
+
+}
+.secondrowtext { color: white;
+  font-size: 30px;
+}
+.thirdrowtext { color: white;
+  font-size: 30px;
+}
+.fourthrowtext { color: white;
+  font-size: 30px;
+}
